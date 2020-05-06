@@ -1,0 +1,8 @@
+In general the whole thing should just be a big loop.
+Consider Defcon 5 and 4 as a setup phase.
+Then Defcon 3 and onward just do Update -> Strategize -> Execute.
+Execute is when we work on long tasks, because the action of turning a bomber shouldn't really be atomic, it's embarrassingly parallel.
+Update is getting new current information on fleets and fighters and such - otherwise we would be polling the world too often.
+Strategize is updating the internal data structures to find roles for everything. In addition to fleets, we should have "bombing runs" and "fighter escorts". Every bomber should belong to a battleship escort, fighter escort, or bombing run. Every bombing run has 
+
+So the main function, after defcon 3, calls this one big function which pauses itself frequently. 

@@ -1,0 +1,32 @@
+Does it make sense to have only one quadtree?
+I say no - have a quadtree for the following:
+	- Enemy Territory (for scouting)
+	- Enemy Radar Coverage (Dilate Enemy Map by radar radius using Enemy Borders point set, then update whenever radar is destroyed)
+	- Enemy Sea Territory
+	- Enemy Battleship Scout Range
+
+Have point sets for the following:
+	- Enemy Borders
+	- Airbase Coverage
+	- Enemy Sea Borders
+	- 
+
+OK, for my land border radars:
+	- Only allocate three or four, tops
+	- Don't place any if they're out of range
+	- Prune to get a relatively small set of candidate points (quadtree by dilating enemy point set by radar distance)
+	- For each candidate point, calculate amount of enemy land territory uncovered by a hypothetical placement
+	
+	A decent approximation for the amount of enemy land territory may be obtained by looking only at points at the edge of radar coverage.
+	This might be wonky near Mexico, but really we're looking at algorithms for AS/AF, RU/EU, and RU/AS.
+	Every time a radar is placed, we wait one tick to place the radar.
+	Then we iterate through each candidate point - if it's no longer a valid placement location we need to remove it.
+	If it's still a valid placement location, we check if it's close (< 2d_r) to the recently placed radar.
+	If not, it keeps the same placement score. Otherwise, we check each point in the candidate point's hypothetical radar circle
+	(the points previously marked as enemy territory),
+	and if the checked point is within the radar coverage distance of the placed radar,
+	then we remove that point from the set of points marked as enemy territory.
+	Then we get the new highest scoring point, and place the next radar there.
+
+For silos:
+	- Make a

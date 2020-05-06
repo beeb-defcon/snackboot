@@ -1,0 +1,24 @@
+function ActivityFighterIntercept(this_task_group)
+-- loop over all units in task group
+-- if not already attacking and enemy within 20 then reset movement target to force re-targeting
+
+for _, id in pairs(this_task_group["units"]) do
+   local close_units=GetClosestUnits(id)
+   
+ if close_units[enemy_team_id]["dist"]["Sub"]<20 or 
+    close_units[enemy_team_id]["dist"]["Fighter"]<20 or 
+    close_units[enemy_team_id]["dist"]["Bomber"]<20 or 
+    close_units[enemy_team_id]["dist"]["Carrier"]<20 or 
+    close_units[enemy_team_id]["dist"]["BattleShip"]<20 then
+
+    -- avoid doing it every tick - screws up fighter movement
+    if GetCurrentTargetID(id)==nil and 
+       GAME_TIME>EXTRA_UNIT_DATA[id]["time"] then
+       EXTRA_UNIT_DATA[id]["time"]=GAME_TIME+5
+    --clear movement target to force re-targeting
+    SetMovementTarget(id,UNIT_DATA[id]["longitude"],UNIT_DATA[id]["latitude"])
+      end
+   end
+
+end
+end

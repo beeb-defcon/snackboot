@@ -1,0 +1,84 @@
+Ok, here are the basics:
+
+1) Group your stuff
+2) Keep it out of enemy radar range (meaning airbases and silos)
+3) Keep your battleships in front of your carriers.
+4) At defcon 3, launch all bombers from carriers and keep them behind the battleships.
+5) Engage the enemy from outside of his radar range, but within yours. Accomplish this by keeping your carriers close to your battleships. See rule 3 as well.
+6) Don't let enemy battleships engage your carriers. Backing off to maintain a radar edge is perfectly acceptable.
+7) As soon as you can, launch fighters from carriers. Micromanage every plane in the air. Make sure it has a target or a purpose.
+8) Scouting: Load up a few hot bombers (the nuke countdown is complete, and it's ready to launch) and then manually set them to fly over the enemy territory. Move carriers forward and spam fighters towards the silo tracers. As the tracers hit your bomber(s), toss a nuke towards the tracers and then manually redirect the bomber to continue its flight across the enemy territory. Steer the fighters towards the tracers manually. As the nuke is shot down, toss another one. Repeat until all silos/airbases have been found.
+9) Bomber waves: When attacking a city/silo/airbase/radar with bombers, launch them in a direction 90 degrees away from the target. Then when the middle bomber is parallel to the target, start with the rear bomber and turn them all one by one to attack.
+10) Sub launches: When attacking, keep battleships in front of the subs, a carrier or three behind, and spam fighters to engage inbound bombers/fighters. Start with the rear sub, and target five locations. Remember the order. Move to the next sub and repeat the order. Continue this process until all subs have their targets set.
+11) Silo launches: The same as subs in terms of process, but spam bombers in all directions to engage surfacing subs.
+
+Some rules of thumb:
+1) When attacking an enemy silo, use at least 6 nukes. 8 is nearly a guarantee. 10 is too many.
+2) When attacking an enemy airbase, use at least 3 nukes. 4 is nearly a guarantee. 7 is too many.
+3) When attacking an enemy radar, use one nuke. Two is nearly a guarantee. Unless that radar absolutely has to die, 2 is too many.
+4) In default scoring, you are awarded more points for kills than are taken away for lack of defense. This isn't the NFL. Defense doesn't win games.
+5) No points are ever awarded for killing enemy naval or land units.
+6) The angle of your attack is important. Silos have a progressively harder time shooting down nukes as angles approach 180 degrees. (I think. More experienced guys may contradict this point, if so, I defer.)
+7) Don't try to sneak subs. Keep them behind your primary vector of attack. Launch them only when it is safe to do so.
+8) The AI is terrible. Don't waste anymore time playing it.
+9) Unlike chastity, patience is a virtue in this game.
+
+===
+
+In 1v1 games the win is often determined by who has more material going into the end game. Even a slight advantage can make the difference - maybe even one fighter. There are lots of posts on general naval strategy, bombers, and subs. The poor fighters have been sorely ignored.
+
+The Basics
+
+Fighters are commonly used for scouting, attacking enemy ships (usually in swarms), shooting down bombers, and shooting down nukes. But they can be used in other ways too. Managing your fighters properly can make the difference between a win and a loss.
+
+At Defcon 5 you have 5 fighters per carrier and 5 fighters per base. The base generates 1 new fighter every 17 minutes and fighters can stay in the air approximately 12 minutes. Fighters are the fastest unit in Defcon, excluding nukes.
+
+Maximize the Number of Fighters
+
+From the start you want to have as many fighters as possible. Bases hold a maximum of 10 fighters, but will stop generating fighters once it reaches five. The goal for maximum fighter production is to constantly have less than five fighters in each base. if you are using fighters from carriers to scout, you can easily transfer 1 or 2 fighters from the base onto your ships: left click base, left click and hold area off of base, release on ship. But if you are traveling across an ocean you may not want to release your fighters immediately. In that case you can transfer 1 or 2 fighters from 3 bases on to a forth base, but remember that you can only have a maximum of 10 fighters per base. You should continue this process until you have 10 fighters in 3 bases and 5 fighters in 1 base - I have never had this much time without needing my fighters, but it is possible.
+
+Even if you want to get your land based bombers in the air as soon as possible, take the time to send one fighter from each base to your ships. This will take at most 5 real-time seconds, and it will give you a 4 fighter advantage over your opponent.
+
+Fighters As Scouts
+
+One of the most useful things fighters can do is to scout the enemy. They can be used to scout silos and other land units, ships, and bombers.
+
+Fighters are easily shot down by battleships and silos. If you want to scout enemy territory with fighters you have 2 basic choices. 1) send massive waves of fighters from many ships, or 2) use bombers or nukes to draw silo fire while scouting with fighters. If I know the general location of my opponents silos and there are no ships between my fleet and his silos, I would use a minimum of 4 carriers (preferably 6) and send three waves of fighters toward the silos, e.g., determine the center of the silos, one wave of fighters covering territory to the right, one wave to the center, and one to the left. The fighters to the right will draw the fire of the silos and will be less prone to being shot down because they are not in the direct line of fire. The center wave will scout the majority and the left wave will scout the other extremity.
+
+If you are using the second method, you can scout with relatively few fighters. The priority of silo anti-air targeting is: 1 - incoming closest nuke, 2 - incoming closest bomber, and finally 3 - incoming closest fighter. As long as there is a nuke in radar and firing range of every silo, the silos will not automatically target your fighters. However, a clever opponent may manually target silos and send other fighters to shoot your fighters down. It is very difficult to try to manually target fighters with silos. In the same method as stated above, you can use bombers to draw the fire as your fighters scout.
+
+Using fighters to scout ships is very useful to provide radar for bomber attacks. If you are able to keep your ships out of radar while providing radar for attacking bombers, you will likely win the naval battle.
+
+Another important use is that of scouting bombers. For example in a situation of EU v. Asia, Asia will usually send a huge wave of bombers on Defcon 1. you can use your fighters to scout where the attack is coming from and then send the rest of your fighters to dispatch the oncoming attack.
+
+Fighters can also me used to provide radar for your silos. Radar coverage is very important for silos in anti-air mode. if you don't have radar coverage you can't shoot the nuke down. If you happen to lose your radar, you can use fighters to provide coverage. However, it is tricky, you waste a lot of fighters, and they don't have a very large radar range. Bombers are much better for this job.
+
+Fighters Attacking Units
+
+The most important targets for fighters to attack are bombers. This is because bombers are easily shot down by fighters. Bombers are very dangerous units: they have huge radar, can nuke cites and ground units, and can attack ships. But they are very vulnerable to fighters. In a group of unprotected bombers, 1 fighter can easily take out 5 or more units. In order to do this you MUST stay active. A fighter shooting a bomber coming directly at it has a better chance of killing it; if you hit it directly on the tip, it will often die with one or 2 hits (i don't have any proof for this other than my own experience). Once a fighter has destroyed a target it will annoyingly fly to the location of the kill before retargeting. You MUST retarget every fighter as soon as it makes a kill. If a wave of bombers is coming at me, i will put my orders tab on, direct one or two fighters to every bombers and micro manage; as soon as i see an untargeted fighter i retarget. Expect for your opponent to be yelling "Speed."
+
+Fighters can also be used to attack enemy ships. I use this strategy a lot when the end of the game is near and i only have a few bombers left. The idea is pretty self explanatory. Simply launch your fighters on and enemy ship. I don't know the average number of fighters it takes to shoot down a carrier of battleship, I usually launch as many as I think i can spare. 2 from 4 ships should take out a single ship no problem. It may take a few more depending on how far away the enemy ship is. Fighters have a total flight time of 12.5 minutes and attack every 20 seconds, the closer they are to the target the more time they can spend attacking it.
+
+An added advantage of using fighters to attack ships, is that when a fighter is shot down above another ship, the explosion will destroy the ship as well. This is very effective when the enemy has his fleet in tight clusters.
+
+Fighters can be retargeted. Just like your other units they have a change over time. Fighters can be retargeted, but they will only acquire a new target every 20 seconds and have to be micro managed. If you want to return the fighter to the base, left click fighter, left click next to your destination, release click on your destination. Note that if you proceed by clicking on fighter and then clicking on airbase, the fighter will simply stop attacking its current target, i.e., not return to the base. If you simply want to change targets simply target the new objective. The fighter will attack the new target as soon it completes its current attack cycle.
+
+Fighters can also be used to shoot down nukes. You must target the nuke, and you must send many, many fighters. This is very effective for me if you are my opponent.*
+
+Kamikaze Fighters
+
+Similar to the way that fighters explode over ships and kill them, so too can happen with land units. Under certain conditions this can be an effective strategy. I have found it most effective for taking out radar before defcon 1. I have used this as africa playing EU. I will send 4 fighters at a time to the radar and hope that one gets shot over the radar. It is hard to control the outcome, but it does work. And under the right circumstances it could be used for air bases and silos - although i have taken out neither with this technique.
+
+Conserving Fighters
+
+In battles where you have to cross an entire ocean, it is very important to conserve as many fighters as possible. In the scenario of Asia vs SA or SA vs USSR, you might be able to reload your fighters one time. In that journey, you will need to use those fighters to take out bombers scout ships, and finally scout silos. If you use your fighters liberally in a long distance trip, even if you get to the enemies shore and take out all of his ships, you will have nothing left to scout his territory or protect your subs. There is nothing worse than having your empty carriers taken out by a single bomber.
+
+The easiest way to conserve is not to scout. Don't send fighters in front of you. Instead, group your units closely and move them as one unit. I like to have my bombers zigzagging behind by fleet. As soon as an enemy ship comes into the radar i have all my bombers firing at it. This way you have your bombers flying and your fighters ready to launch. If you do have to launch fighters, make sure when that skirmish is over, you retarget your fighters to return to the ship. This is a lot of work, but every fighter you save will pay dividends when it comes to scouting or launching subs.
+
+I have seen other people send fighters a short distance in front of them, just past the radar of their carriers and then return the fighters to the ship. This is also an effective way to conserve and take advantage of the fighters scouting ability.
+
+Odds and Ends
+
+Here are just a couple of other ways to use fighters. During the end game, players will have bombers flying around their coasts, often armed to nuke. When they see a fighter coming, they will launch the nuke in the direction of the fighter. Similarly if your opponent has carriers full of fighters, he will launch many fighters in the direction of the scout in order to take out its home carrier. If you are worried about this, a good strategy is to launch the fighter to the side, then send the fighter the intended direction while distancing your carrier from the fighter.
+
+In a situation where both you and your opponent are almost out of material with only a few carriers left and you are both trying to take each other out with fighters, the person who is able to manage fighters better will win. The key to taking out ships with fighters is having multiple fighters attack one ship and having those fighters be able to attack for a long period of time. The ideal situation is to have an equal number of fighters in every ship and no more than is necessary to attack once and retreat. This is because you don't want to lose a ship that is full of fighters. All those fighters will be wasted and it will take too long to regenerate. If you fill your ships up with 2 fighters, attack, and retreat, while your opponent tries to fill up with 5 fighters, you will be able to attack more often then your opponent. And if you take out one of his ships you will kill more fighters. Basically in this situation you are playing the regeneration time of your bases. If you take out a ship that is full of 5 fighters, you have won a considerable amount of time in the regeneration of fighters. 
